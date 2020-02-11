@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Label2</folder>
+	<filename>IMG_1277.jpeg</filename>
+	<path>C:\Users\cy\Desktop\Label2\IMG_1277.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CONSTRUCTION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1284</xmin>
+			<ymin>1530</ymin>
+			<xmax>1989</xmax>
+			<ymax>2106</ymax>
+		</bndbox>
+	</object>
+</annotation>

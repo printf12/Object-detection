@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Label2</folder>
+	<filename>10.PNG</filename>
+	<path>C:\Users\cy\Desktop\Label2\10.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>211</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ACC_AKTIV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>22</ymin>
+			<xmax>184</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

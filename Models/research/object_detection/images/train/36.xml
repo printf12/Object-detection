@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Label2</folder>
+	<filename>36.PNG</filename>
+	<path>C:\Users\cy\Desktop\Label2\36.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>227</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ACCELERATOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>47</ymin>
+			<xmax>176</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

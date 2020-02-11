@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Label2</folder>
+	<filename>IMG_1280.jpeg</filename>
+	<path>C:\Users\cy\Desktop\Label2\IMG_1280.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EISSTERN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1713</xmin>
+			<ymin>1445</ymin>
+			<xmax>2094</xmax>
+			<ymax>1911</ymax>
+		</bndbox>
+	</object>
+</annotation>
